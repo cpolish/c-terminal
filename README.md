@@ -7,5 +7,4 @@ At the moment supports working with files and the following commands:
 - rm
 - mv (renaming files)
 
-To exit the terminal, type 'exit'
-
+To exit the terminal, type 'exit'.
